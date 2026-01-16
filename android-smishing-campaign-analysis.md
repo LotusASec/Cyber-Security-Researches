@@ -210,7 +210,7 @@ These findings will be published in a **separate malware analysis report**.
 
 ## 12. References & Appendices
 
-### 📎 A. ANY.RUN Report
+### A. ANY.RUN Report
 
 - `hxxps://app.any.run/tasks/8fd0f124-1518-496c-a329-b4506729a710`
 
